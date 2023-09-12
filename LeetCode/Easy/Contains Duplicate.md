@@ -1,6 +1,6 @@
 ## 📚 문제
 
-<img src="./img/Contains.png" style="width:500px">
+<img src="../img/Contains.png" style="width:500px">
 
 </br>
 

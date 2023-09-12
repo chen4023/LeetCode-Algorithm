@@ -1,6 +1,6 @@
 ## 📚 문제
 
-<img src="./img/TwoSum.png" style="width:300px">
+<img src="../img/TwoSum.png" style="width:300px">
 
 </br>
 

@@ -1,6 +1,6 @@
 ## 📚 문제
 
-<img src="./img/Best Time.png" style="width:500px">
+<img src="../img/Best Time.png" style="width:500px">
 
 </br>
 
